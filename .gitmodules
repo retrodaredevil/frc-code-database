@@ -109,3 +109,12 @@
 [submodule "frc/2412/2019/Deep Space 2019"]
 	path = frc/2412/2019/Deep Space 2019
 	url = https://github.com/robototes/DeepSpace2019.git
+[submodule "frc/3468/2018/PowerUp"]
+	path = frc/3468/2018/PowerUp
+	url = https://github.com/frc3468/PowerUp
+[submodule "frc/3468/2019/DeepSpace"]
+	path = frc/3468/2019/DeepSpace
+	url = https://github.com/frc3468/DeepSpace
+[submodule "frc/3468/2020/InfiniteRecharge"]
+	path = frc/3468/2020/InfiniteRecharge
+	url = https://github.com/frc3468/InfiniteRecharge

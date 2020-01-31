@@ -10,3 +10,48 @@
 [submodule "frc/1444/2020/robot2020"]
 	path = frc/1444/2020/robot2020
 	url = https://github.com/frc1444/robot2020
+[submodule "frc/1706/other/Swerve_Base-2020"]
+	path = frc/1706/other/Swerve_Base-2020
+	url = https://github.com/rr1706/Swerve_Base-2020
+[submodule "frc/2910/other/Common"]
+	path = frc/2910/other/Common
+	url = https://github.com/FRCTeam2910/Common
+[submodule "frc/6391/2019/2019_Deep_Space"]
+	path = frc/6391/2019/2019_Deep_Space
+	url = https://github.com/6391-Ursuline-Bearbotics/2019_Deep_Space
+[submodule "frc/6391/2019/2020_UARobotics_Buzz"]
+	path = frc/6391/2019/2020_UARobotics_Buzz
+	url = https://github.com/6391-Ursuline-Bearbotics/2020_UARobotics_Buzz
+[submodule "frc/6391/2020/2020_UARobotics_Infinite_Recharge"]
+	path = frc/6391/2020/2020_UARobotics_Infinite_Recharge
+	url = https://github.com/6391-Ursuline-Bearbotics/2020_UARobotics_Infinite_Recharge
+[submodule "frc/254/2017/FRC-2017-Public"]
+	path = frc/254/2017/FRC-2017-Public
+	url = https://github.com/Team254/FRC-2017-Public
+[submodule "frc/254/2019/FRC-2019-Public"]
+	path = frc/254/2019/FRC-2019-Public
+	url = https://github.com/Team254/FRC-2019-Public
+[submodule "frc/254/2018/FRC-2018-Public"]
+	path = frc/254/2018/FRC-2018-Public
+	url = https://github.com/Team254/FRC-2018-Public
+[submodule "frc/254/other/TrajectoryLib"]
+	path = frc/254/other/TrajectoryLib
+	url = https://github.com/Team254/TrajectoryLib
+[submodule "frc/4329/2017/2017_Dev"]
+	path = frc/4329/2017/2017_Dev
+	url = https://github.com/4329/2017_Dev
+[submodule "frc/4256/2019/4256-19-Apollo"]
+	path = frc/4256/2019/4256-19-Apollo
+	url = https://github.com/Team4256/4256-19-Apollo
+[submodule "frc/4256/2018/4256-18-Faraday"]
+	path = frc/4256/2018/4256-18-Faraday
+	url = https://github.com/Team4256/4256-18-Faraday
+[submodule "frc/302/2020/2020InfiniteRecharge"]
+	path = frc/302/2020/2020InfiniteRecharge
+	url = https://github.com/Team302/2020InfiniteRecharge
+[submodule "frc/302/2019/2019DestinationDeepSpace"]
+	path = frc/302/2019/2019DestinationDeepSpace
+	url = https://github.com/Team302/2019DestinationDeepSpace
+[submodule "frc/1678/2019/c2019-rewrite"]
+	path = frc/1678/2019/c2019-rewrite
+	url = https://github.com/frc1678/c2019-rewrite

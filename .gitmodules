@@ -100,3 +100,12 @@
 [submodule "frc/7496/2019/DeepSpace-OS"]
 	path = frc/7496/2019/DeepSpace-OS
 	url = https://github.com/YellowLemon571/DeepSpace-OS
+[submodule "frc/2412/2020/Infinite Recharge 2020"]
+	path = frc/2412/2020/Infinite Recharge 2020
+	url = https://github.com/robototes/InfiniteRecharge2020.git
+[submodule "frc/2412/other/2412RobotLibrary"]
+	path = frc/2412/other/2412RobotLibrary
+	url = https://github.com/robototes/2412RobotLibrary.git
+[submodule "frc/2412/2019/Deep Space 2019"]
+	path = frc/2412/2019/Deep Space 2019
+	url = https://github.com/robototes/DeepSpace2019.git

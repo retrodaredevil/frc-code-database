@@ -1,0 +1,12 @@
+[submodule "frc/1444/other/robo-sim"]
+	path = frc/1444/other/robo-sim
+	url = https://github.com/frc1444/robo-sim
+[submodule "frc/1444/2019/robot2019"]
+	path = frc/1444/2019/robot2019
+	url = https://github.com/frc1444/robot2019
+[submodule "frc/1444/2019/robot2019-sim"]
+	path = frc/1444/2019/robot2019-sim
+	url = https://github.com/frc1444/robot2019-sim
+[submodule "frc/1444/2020/robot2020"]
+	path = frc/1444/2020/robot2020
+	url = https://github.com/frc1444/robot2020

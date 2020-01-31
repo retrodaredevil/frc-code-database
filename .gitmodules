@@ -55,3 +55,48 @@
 [submodule "frc/1678/2019/c2019-rewrite"]
 	path = frc/1678/2019/c2019-rewrite
 	url = https://github.com/frc1678/c2019-rewrite
+[submodule "frc/1899/2020/frc2020"]
+	path = frc/1899/2020/frc2020
+	url = https://github.com/SaintsRobotics/frc2020
+[submodule "frc/1329/2019/roborebels-2019"]
+	path = frc/1329/2019/roborebels-2019
+	url = https://github.com/RoboRebel/roborebels-2019
+[submodule "frc/2408/2018/FRC2018"]
+	path = frc/2408/2018/FRC2018
+	url = https://github.com/ShrapnelSergeants2408/FRC2018
+[submodule "frc/2408/2019/FRC-2019"]
+	path = frc/2408/2019/FRC-2019
+	url = https://github.com/ShrapnelSergeants2408/FRC-2019
+[submodule "frc/3647/2019/2020-InfiniteRecharge"]
+	path = frc/3647/2019/2020-InfiniteRecharge
+	url = https://github.com/MillenniumFalcons/2020-InfiniteRecharge
+[submodule "frc/4187/2019/2019-RoboRams-Code"]
+	path = frc/4187/2019/2019-RoboRams-Code
+	url = https://github.com/4187roborams/2019-RoboRams-Code
+[submodule "frc/4213/2019/Robot2019"]
+	path = frc/4213/2019/Robot2019
+	url = https://github.com/MetalCowRobotics/Robot2019
+[submodule "frc/4213/2020/Robot2020"]
+	path = frc/4213/2020/Robot2020
+	url = https://github.com/MetalCowRobotics/Robot2020
+[submodule "frc/4500/2019/2019RobotCPP"]
+	path = frc/4500/2019/2019RobotCPP
+	url = https://github.com/NicolasNewman/2019RobotCPP
+[submodule "frc/4500/2019/2019Robot"]
+	path = frc/4500/2019/2019Robot
+	url = https://github.com/FRCTeam4500/2019Robot
+[submodule "frc/4500/2018/2018Robot"]
+	path = frc/4500/2018/2018Robot
+	url = https://github.com/FRCTeam4500/2018Robot
+[submodule "frc/4931/2019/2019-Robot"]
+	path = frc/4931/2019/2019-Robot
+	url = https://github.com/frc-4931/2019-Robot
+[submodule "frc/5176/2019/FRC-Deep-Space-2019"]
+	path = frc/5176/2019/FRC-Deep-Space-2019
+	url = https://github.com/Team-5176/FRC-Deep-Space-2019
+[submodule "frc/5809/2019/5809_Code_2019"]
+	path = frc/5809/2019/5809_Code_2019
+	url = https://github.com/bkeefe313/5809_Code_2019
+[submodule "frc/7496/2019/DeepSpace-OS"]
+	path = frc/7496/2019/DeepSpace-OS
+	url = https://github.com/YellowLemon571/DeepSpace-OS

@@ -118,3 +118,12 @@
 [submodule "frc/3468/2020/InfiniteRecharge"]
 	path = frc/3468/2020/InfiniteRecharge
 	url = https://github.com/frc3468/InfiniteRecharge
+[submodule "frc/1073/2020/robot2020"]
+	path = frc/1073/2020/robot2020
+	url = https://github.com/FRCTeam1073-TheForceTeam/robot2020
+[submodule "frc/694/2019/Alfred"]
+	path = frc/694/2019/Alfred
+	url = https://github.com/StuyPulse/Alfred
+[submodule "frc/199/2020/RobotCode2020"]
+	path = frc/199/2020/RobotCode2020
+	url = https://github.com/DeepBlueRobotics/RobotCode2020

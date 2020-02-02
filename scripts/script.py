@@ -68,7 +68,6 @@ def firstwiki_populate(args):
                             pass
                 else:
                     break
-            return
 
 
 def quick_add(args):

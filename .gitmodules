@@ -4636,3 +4636,156 @@
 [submodule "frc/3794/2016/KZ-2016-CPP"]
 	path = frc/3794/2016/KZ-2016-CPP
 	url = https://github.com/WinT-3794/KZ-2016-CPP
+[submodule "frc/2473/2020/FRC2020"]
+	path = frc/2473/2020/FRC2020
+	url = https://github.com/Tino-FRC-2473/FRC2020
+[submodule "frc/2473/2020/FRC2020-Vision"]
+	path = frc/2473/2020/FRC2020-Vision
+	url = https://github.com/Tino-FRC-2473/FRC2020-Vision
+[submodule "frc/2473/2019/FRC2019"]
+	path = frc/2473/2019/FRC2019
+	url = https://github.com/Tino-FRC-2473/FRC2019
+[submodule "frc/2473/2019/FRC2019-Vision"]
+	path = frc/2473/2019/FRC2019-Vision
+	url = https://github.com/Tino-FRC-2473/FRC2019-Vision
+[submodule "frc/1351/2019/tko2019"]
+	path = frc/1351/2019/tko2019
+	url = https://github.com/MittyRobotics/tko2019
+[submodule "frc/1351/other/tko-libraries"]
+	path = frc/1351/other/tko-libraries
+	url = https://github.com/MittyRobotics/tko-libraries
+[submodule "frc/1351/other/jetson-vision"]
+	path = frc/1351/other/jetson-vision
+	url = https://github.com/MittyRobotics/jetson-vision
+[submodule "frc/1351/2018/mark-xv-rewrite"]
+	path = frc/1351/2018/mark-xv-rewrite
+	url = https://github.com/MittyRobotics/mark-xv-rewrite
+[submodule "frc/5410/2017/robot-steamworks"]
+	path = frc/5410/2017/robot-steamworks
+	url = https://gitlab.com/eaglebotics/robot-steamworks
+[submodule "frc/1515/2019/RobottomanEmpire"]
+	path = frc/1515/2019/RobottomanEmpire
+	url = https://github.com/mortorqrobotics/RobottomanEmpire
+[submodule "frc/1515/2020/Spongebot"]
+	path = frc/1515/2020/Spongebot
+	url = https://github.com/mortorqrobotics/Spongebot
+[submodule "frc/5112/2020/Robot2020"]
+	path = frc/5112/2020/Robot2020
+	url = https://github.com/Gongoliers/Robot2020
+[submodule "frc/5112/other/Library-of-Gongolierium"]
+	path = frc/5112/other/Library-of-Gongolierium
+	url = https://github.com/Gongoliers/Library-of-Gongolierium
+[submodule "frc/5112/2019/Robot2019"]
+	path = frc/5112/2019/Robot2019
+	url = https://github.com/Gongoliers/Robot2019
+[submodule "frc/2733/2020/frc-2020"]
+	path = frc/2733/2020/frc-2020
+	url = https://github.com/Pigmice2733/frc-2020
+[submodule "frc/2733/other/robolib"]
+	path = frc/2733/other/robolib
+	url = https://github.com/Pigmice2733/robolib
+[submodule "frc/2733/2019/frc-2019"]
+	path = frc/2733/2019/frc-2019
+	url = https://github.com/Pigmice2733/frc-2019
+[submodule "frc/2539/other/command-based"]
+	path = frc/2539/other/command-based
+	url = https://github.com/FRC2539/command-based
+[submodule "frc/6829/2019/Robot_2019"]
+	path = frc/6829/2019/Robot_2019
+	url = https://github.com/IgniteRobotics/Robot_2019
+[submodule "frc/6829/2019/Vision_2019"]
+	path = frc/6829/2019/Vision_2019
+	url = https://github.com/IgniteRobotics/Vision_2019
+[submodule "frc/2449/2018/robot-code-2018"]
+	path = frc/2449/2018/robot-code-2018
+	url = https://github.com/team-2449/robot-code-2018
+[submodule "frc/2501/2020/2020-Robot"]
+	path = frc/2501/2020/2020-Robot
+	url = https://github.com/FRCTeam2501/2020-Robot
+[submodule "frc/4048/other/Swerve-Drive-Library-Java"]
+	path = frc/4048/other/Swerve-Drive-Library-Java
+	url = https://github.com/FRC4048/Swerve-Drive-Library-Java
+[submodule "frc/4048/other/java-common"]
+	path = frc/4048/other/java-common
+	url = https://github.com/FRC4048/java-common
+[submodule "frc/4048/2019/FRC2019_Java"]
+	path = frc/4048/2019/FRC2019_Java
+	url = https://github.com/FRC4048/FRC2019_Java
+[submodule "frc/4048/2018/FRC2018_Java"]
+	path = frc/4048/2018/FRC2018_Java
+	url = https://github.com/FRC4048/FRC2018_Java
+[submodule "frc/2035/2020/endless-rejuvenation"]
+	path = frc/2035/2020/endless-rejuvenation
+	url = https://github.com/CarmelRobotics/endless-rejuvenation
+[submodule "frc/2035/2019/cavernous-cosmos"]
+	path = frc/2035/2019/cavernous-cosmos
+	url = https://github.com/CarmelRobotics/cavernous-cosmos
+[submodule "frc/2035/2018/forceful-ascension"]
+	path = frc/2035/2018/forceful-ascension
+	url = https://github.com/CarmelRobotics/forceful-ascension
+[submodule "frc/2135/other/software"]
+	path = frc/2135/other/software
+	url = https://github.com/usfirst-frc-2135/software
+[submodule "frc/1294/2019/frc2019"]
+	path = frc/1294/2019/frc2019
+	url = https://github.com/FRC-1294/frc2019
+[submodule "frc/41/2019/2019-Robot-code"]
+	path = frc/41/2019/2019-Robot-code
+	url = https://github.com/Team41Robotics/2019-Robot-code
+[submodule "frc/41/2020/2020-Robot-Code"]
+	path = frc/41/2020/2020-Robot-Code
+	url = https://github.com/Team41Robotics/2020-Robot-Code
+[submodule "frc/60/2019/2019-FRC-Deep-Space"]
+	path = frc/60/2019/2019-FRC-Deep-Space
+	url = https://github.com/frcteam60/2019-FRC-Deep-Space
+[submodule "frc/190/2019/2k19-robot-code"]
+	path = frc/190/2019/2k19-robot-code
+	url = https://github.com/Team-190/2k19-robot-code
+[submodule "frc/190/2019/2k19-vision-code"]
+	path = frc/190/2019/2k19-vision-code
+	url = https://github.com/Team-190/2k19-vision-code
+[submodule "frc/190/2019/2k19-robot-code-imported"]
+	path = frc/190/2019/2k19-robot-code-imported
+	url = https://github.com/Team-190/2k19-robot-code-imported
+[submodule "frc/190/2011/2k11-robot-code"]
+	path = frc/190/2011/2k11-robot-code
+	url = https://github.com/Team-190/2k11-robot-code
+[submodule "frc/190/2012/2k12-robot-code"]
+	path = frc/190/2012/2k12-robot-code
+	url = https://github.com/Team-190/2k12-robot-code
+[submodule "frc/190/2013/2k13-robot-code"]
+	path = frc/190/2013/2k13-robot-code
+	url = https://github.com/Team-190/2k13-robot-code
+[submodule "frc/190/2014/2k14-robot-code"]
+	path = frc/190/2014/2k14-robot-code
+	url = https://github.com/Team-190/2k14-robot-code
+[submodule "frc/190/2015/2k15-robot-code"]
+	path = frc/190/2015/2k15-robot-code
+	url = https://github.com/Team-190/2k15-robot-code
+[submodule "frc/190/2016/2k16-robot-code"]
+	path = frc/190/2016/2k16-robot-code
+	url = https://github.com/Team-190/2k16-robot-code
+[submodule "frc/190/2017/2k17-robot-code"]
+	path = frc/190/2017/2k17-robot-code
+	url = https://github.com/Team-190/2k17-robot-code
+[submodule "frc/190/2018/2k18-robot-code"]
+	path = frc/190/2018/2k18-robot-code
+	url = https://github.com/Team-190/2k18-robot-code
+[submodule "frc/488/2019/TeamXbot2019"]
+	path = frc/488/2019/TeamXbot2019
+	url = https://github.com/Team488/TeamXbot2019
+[submodule "frc/488/2019/2019-488-Vision"]
+	path = frc/488/2019/2019-488-Vision
+	url = https://github.com/Team488/2019-488-Vision
+[submodule "frc/488/other/SeriouslyCommonLib"]
+	path = frc/488/other/SeriouslyCommonLib
+	url = https://github.com/Team488/SeriouslyCommonLib
+[submodule "frc/488/2020/Robox2020"]
+	path = frc/488/2020/Robox2020
+	url = https://github.com/Team488/Robox2020
+[submodule "frc/610/2019/2019-Public"]
+	path = frc/610/2019/2019-Public
+	url = https://github.com/Team610/2019-Public
+[submodule "frc/670/2019/2019-Robot"]
+	path = frc/670/2019/2019-Robot
+	url = https://github.com/HHS-Team670/2019-Robot

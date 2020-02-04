@@ -4789,3 +4789,153 @@
 [submodule "frc/670/2019/2019-Robot"]
 	path = frc/670/2019/2019-Robot
 	url = https://github.com/HHS-Team670/2019-Robot
+[submodule "frc/1885/2019/FRC-BunnyBots-2019"]
+	path = frc/1885/2019/FRC-BunnyBots-2019
+	url = https://github.com/iliterobotics/FRC-BunnyBots-2019
+[submodule "frc/1885/2019/FRC-Scouting-2019"]
+	path = frc/1885/2019/FRC-Scouting-2019
+	url = https://github.com/iliterobotics/FRC-Scouting-2019
+[submodule "frc/1885/2019/FRC-Robot-2019"]
+	path = frc/1885/2019/FRC-Robot-2019
+	url = https://github.com/iliterobotics/FRC-Robot-2019
+[submodule "frc/2073/2020/robot2020"]
+	path = frc/2073/2020/robot2020
+	url = https://github.com/FRCTeam1073-TheForceTeam/robot2020
+[submodule "frc/694/2020/fantastic-spork"]
+	path = frc/694/2020/fantastic-spork
+	url = https://github.com/StuyPulse/fantastic-spork
+[submodule "frc/5024/2020/InfiniteRecharge"]
+	path = frc/5024/2020/InfiniteRecharge
+	url = https://github.com/frc5024/InfiniteRecharge
+[submodule "frc/2706/2020/2020-2706-Robot-Code"]
+	path = frc/2706/2020/2020-2706-Robot-Code
+	url = https://github.com/FRC2706/2020-2706-Robot-Code
+[submodule "frc/1100/2020/FRCInfiniteRecharge"]
+	path = frc/1100/2020/FRCInfiniteRecharge
+	url = https://github.com/Team1100/FRCInfiniteRecharge
+[submodule "frc/694/other/StuyLib"]
+	path = frc/694/other/StuyLib
+	url = https://github.com/StuyPulse/StuyLib
+[submodule "frc/263/2019/2019-robot-code"]
+	path = frc/263/2019/2019-robot-code
+	url = https://github.com/SachemAftershock/2019-robot-code
+[submodule "frc/263/2018/2018-robot-code"]
+	path = frc/263/2018/2018-robot-code
+	url = https://github.com/SachemAftershock/2018-robot-code
+[submodule "frc/263/2017/2017-robot-code"]
+	path = frc/263/2017/2017-robot-code
+	url = https://github.com/SachemAftershock/2017-robot-code
+[submodule "frc/3504/2020/2020GirlsofSteel"]
+	path = frc/3504/2020/2020GirlsofSteel
+	url = https://github.com/GirlsOfSteelRobotics/2020GirlsofSteel
+[submodule "frc/3504/2019/2019GirlsofSteel"]
+	path = frc/3504/2019/2019GirlsofSteel
+	url = https://github.com/GirlsOfSteelRobotics/2019GirlsofSteel
+[submodule "frc/3504/2018/2018GirlsofSteel"]
+	path = frc/3504/2018/2018GirlsofSteel
+	url = https://github.com/GirlsOfSteelRobotics/2018GirlsofSteel
+[submodule "frc/3504/2017/2017GirlsofSteel"]
+	path = frc/3504/2017/2017GirlsofSteel
+	url = https://github.com/GirlsOfSteelRobotics/2017GirlsofSteel
+[submodule "frc/3504/2016/2016GirlsofSteel"]
+	path = frc/3504/2016/2016GirlsofSteel
+	url = https://github.com/GirlsOfSteelRobotics/2016GirlsofSteel
+[submodule "frc/4788/2020/2020-InfiniteRecharge"]
+	path = frc/4788/2020/2020-InfiniteRecharge
+	url = https://github.com/CurtinFRC/2020-InfiniteRecharge
+[submodule "frc/4788/2019/2019-DeepSpace"]
+	path = frc/4788/2019/2019-DeepSpace
+	url = https://github.com/CurtinFRC/2019-DeepSpace
+[submodule "frc/4788/2018/2018-PowerUp"]
+	path = frc/4788/2018/2018-PowerUp
+	url = https://github.com/CurtinFRC/2018-PowerUp
+[submodule "frc/7028/2020/frc-7028-2020"]
+	path = frc/7028/2020/frc-7028-2020
+	url = https://github.com/STMARobotics/frc-7028-2020
+[submodule "frc/4183/2020/FRC2020_Infinite_Recharge"]
+	path = frc/4183/2020/FRC2020_Infinite_Recharge
+	url = https://github.com/BitBucketsFRC4183/FRC2020_Infinite_Recharge
+[submodule "frc/1504/other/Robot_Framework"]
+	path = frc/1504/other/Robot_Framework
+	url = https://github.com/1504/Robot_Framework
+[submodule "frc/694/other/frc"]
+	path = frc/694/other/frc
+	url = https://github.com/StuyPulse/frc
+[submodule "frc/6357/2017/robot_code"]
+	path = frc/6357/2017/robot_code
+	url = https://github.com/frc6357/robot_code
+[submodule "frc/5190/2018/2018CompetitionSeason"]
+	path = frc/5190/2018/2018CompetitionSeason
+	url = https://github.com/FRC5190/2018CompetitionSeason
+[submodule "frc/449/2017/robot2017"]
+	path = frc/449/2017/robot2017
+	url = https://github.com/blair-robot-project/robot2017
+[submodule "frc/973/2017/2017-inseason"]
+	path = frc/973/2017/2017-inseason
+	url = https://github.com/Team973/2017-inseason
+[submodule "frc/339/2020/2020"]
+	path = frc/339/2020/2020
+	url = https://github.com/FIRST-Team-339/2020
+[submodule "frc/339/2019/2019"]
+	path = frc/339/2019/2019
+	url = https://github.com/FIRST-Team-339/2019
+[submodule "frc/339/2018/2018"]
+	path = frc/339/2018/2018
+	url = https://github.com/FIRST-Team-339/2018
+[submodule "frc/339/2017/2017"]
+	path = frc/339/2017/2017
+	url = https://github.com/FIRST-Team-339/2017
+[submodule "frc/339/2016/2016"]
+	path = frc/339/2016/2016
+	url = https://github.com/FIRST-Team-339/2016
+[submodule "frc/5499/2019/frc-2019"]
+	path = frc/5499/2019/frc-2019
+	url = https://github.com/team5499/frc-2019
+[submodule "frc/4253/2019/RaidZero-FRC-2019"]
+	path = frc/4253/2019/RaidZero-FRC-2019
+	url = https://github.com/TASRobotics/RaidZero-FRC-2019
+[submodule "frc/78/2018/2018"]
+	path = frc/78/2018/2018
+	url = https://github.com/AquidneckIslandRobotics/2018
+[submodule "frc/78/2019/2019"]
+	path = frc/78/2019/2019
+	url = https://github.com/AquidneckIslandRobotics/2019
+[submodule "frc/78/2019/Real2019"]
+	path = frc/78/2019/Real2019
+	url = https://github.com/AquidneckIslandRobotics/Real2019
+[submodule "frc/78/2019/2019Offseason"]
+	path = frc/78/2019/2019Offseason
+	url = https://github.com/AquidneckIslandRobotics/2019Offseason
+[submodule "frc/78/2011/2011"]
+	path = frc/78/2011/2011
+	url = https://github.com/AquidneckIslandRobotics/2011
+[submodule "frc/78/2012/2012"]
+	path = frc/78/2012/2012
+	url = https://github.com/AquidneckIslandRobotics/2012
+[submodule "frc/78/2013/2013"]
+	path = frc/78/2013/2013
+	url = https://github.com/AquidneckIslandRobotics/2013
+[submodule "frc/78/2014/2014"]
+	path = frc/78/2014/2014
+	url = https://github.com/AquidneckIslandRobotics/2014
+[submodule "frc/78/2016/2016"]
+	path = frc/78/2016/2016
+	url = https://github.com/AquidneckIslandRobotics/2016
+[submodule "frc/2062/2020/CORE2020"]
+	path = frc/2062/2020/CORE2020
+	url = https://github.com/core2062/CORE2020
+[submodule "frc/2062/other/CORERobotLib"]
+	path = frc/2062/other/CORERobotLib
+	url = https://github.com/core2062/CORERobotLib
+[submodule "frc/2062/2019/CORE2019"]
+	path = frc/2062/2019/CORE2019
+	url = https://github.com/core2062/CORE2019
+[submodule "frc/2062/2019/CORE2019Vision"]
+	path = frc/2062/2019/CORE2019Vision
+	url = https://github.com/core2062/CORE2019Vision
+[submodule "frc/2062/2019/COREScouting-2019"]
+	path = frc/2062/2019/COREScouting-2019
+	url = https://github.com/core2062/COREScouting-2019
+[submodule "frc/207/other/Team-207"]
+	path = frc/207/other/Team-207
+	url = https://github.com/Matthew-Ruane/Team-207

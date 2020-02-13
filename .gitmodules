@@ -4939,3 +4939,18 @@
 [submodule "frc/207/other/Team-207"]
 	path = frc/207/other/Team-207
 	url = https://github.com/Matthew-Ruane/Team-207
+[submodule "frc/2335/2020/InfiniteRecharge-2020"]
+	path = frc/2335/2020/InfiniteRecharge-2020
+	url = https://github.com/SargonRobotics/InfiniteRecharge-2020
+[submodule "frc/3461/2020/frc-3461-2020"]
+	path = frc/3461/2020/frc-3461-2020
+	url = https://github.com/phlogiston1/frc-3461-2020
+[submodule "frc/6995/2020/NOMAD-Base-2020"]
+	path = frc/6995/2020/NOMAD-Base-2020
+	url = https://github.com/frc6995/NOMAD-Base-2020
+[submodule "frc/4089/2020/Stealth2020"]
+	path = frc/4089/2020/Stealth2020
+	url = https://github.com/Stealth-Robotics/Stealth2020
+[submodule "frc/1359/2020/2020PirateDartboard"]
+	path = frc/1359/2020/2020PirateDartboard
+	url = https://github.com/1359Scalawags/2020PirateDartboard

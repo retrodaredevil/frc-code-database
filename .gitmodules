@@ -4981,3 +4981,21 @@
 [submodule "frc/4611/2020/InfiniteRecharge-2020"]
 	path = frc/4611/2020/InfiniteRecharge-2020
 	url = https://github.com/olentangyfrc/InfiniteRecharge-2020
+[submodule "frc/3128/2020/3128-robot-2020"]
+	path = frc/3128/2020/3128-robot-2020
+	url = https://github.com/Team3128/3128-robot-2020
+[submodule "frc/4207/2019/HF-Team-4207-FRC-2019"]
+	path = frc/4207/2019/HF-Team-4207-FRC-2019
+	url = https://github.com/pyro4207/HF-Team-4207-FRC-2019
+[submodule "frc/4207/2018/HF-Team-4207-FRC-2018"]
+	path = frc/4207/2018/HF-Team-4207-FRC-2018
+	url = https://github.com/pyro4207/HF-Team-4207-FRC-2018
+[submodule "frc/4012/2020/FRC4012-Infinite-Recharge"]
+	path = frc/4012/2020/FRC4012-Infinite-Recharge
+	url = https://github.com/djpgamer7/FRC4012-Infinite-Recharge
+[submodule "frc/5687/2020/2020-robot"]
+	path = frc/5687/2020/2020-robot
+	url = https://github.com/frc5687/2020-robot
+[submodule "frc/1444/2018/robot2018"]
+	path = frc/1444/2018/robot2018
+	url = https://github.com/frc1444/robot2018/
